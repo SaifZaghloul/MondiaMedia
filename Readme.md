@@ -1,16 +1,16 @@
-﻿Test Automation Project
-Simple Java test automation framework to cover a purchase request in "Konakart" website
+﻿# Test Automation Project
+# Simple Java test automation framework to cover a purchase request in "Konakart" website
 
-Concepts Included
+# Concepts Included
 Page Object Modeling
 Data Driven Framework
 
-Tools
+# Tools
 Gradle
 TestNG
 Selenium Webdriver
 
-Requirements
+# Requirements
 In order to utilise this project you need to have the following installed locally:
 1-Eclips
 2-Google Chrome Installed 
@@ -18,11 +18,11 @@ In order to utilise this project you need to have the following installed locall
 
 To run all test cases, use the "Main" class.
 
-Reporting
+# Reporting
 Reports for each test case is generated through TestNG automatically
 
 
-Configuration And Setup
+# Configuration and Setup
 Eclipse
 To get it working on a regular Eclipse 4.2.1 or later, follow these steps:
 1. Using the "Eclipse Marketplace" settings panel under the 
